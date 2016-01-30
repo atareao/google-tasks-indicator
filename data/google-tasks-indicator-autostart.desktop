@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/google-tasks-indicator
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es_ES]=google-tasks-indicator-autostart
+Name=Google-Tasks-Indicator
+Comment[es_ES]=Google-Tasks-Indicator official shortcut
+Comment=Google-Tasks-Indicator official shortcut

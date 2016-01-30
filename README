@@ -1,0 +1,19 @@
+Catch-Indicator
+===============
+
+Catch-Indicator is an application to get your Catch notes to your Desktop
+
+
+Download
+--------
+
+Download the [package][dlp] *or* checkout the source:
+
+    $ hg clone http://bitbucket.org/obensonne/gnome-encfs
+
+Installation
+------------
+
+    $ sudo add-apt-repositoy ppa:atareao/atareao
+    $ sudo apt-get update
+    $ sudo apt-get install catch-indicator

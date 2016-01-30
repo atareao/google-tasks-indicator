@@ -1,0 +1,145 @@
+google-tasks-indicator (0.6.0-extras15.10.0) wily; urgency=medium
+
+  * Added control over tasklists
+  * Sort tasklists
+  * Edit tasklists
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 30 Jan 2016 12:54:13 +0100
+
+google-tasks-indicator (0.5.2-0.extras14.04.2) trusty; urgency=low
+
+  * Migrated to Trusty Tahr
+  * Fixed some deprecations
+  * Updated translations
+  * Fixed launcher to python3
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 23 Mar 2014 21:58:06 +0100
+
+google-tasks-indicator (0.0.5.1.precise.1-1ubuntu1) precise; urgency=low
+
+  * Added tasklist management
+  * Fixed bugs:
+  * #1093340 KeyError 
+  * #1093343 Tasks are not uploading to Google Tasks 
+  * #1097449 Typo: googletasksapi.py:215 should read "self.tasklists.keys()" instead of "self.tasklist.keys()" 
+  * #1097450 Typo: show_tasks_dialog.py:143 should read "snd = TaskDialog(id)" 
+  * #1097460 Typo: googletasksapi.py:378 should read params = {'tasklist':tasklist_id,'task':task_id} 
+  * #1097452 Selecting "All" Tasklists disables the ability to add a new task. 
+  * Updated translations
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 19 Jan 2013 07:06:18 +0100
+
+google-tasks-indicator (0.0.5.0.precise.4-1ubuntu1) precise; urgency=low
+
+  * needs
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Mon, 24 Dec 2012 11:46:51 +0100
+
+google-tasks-indicator (0.0.5.0.precise.3-1ubuntu2) precise; urgency=low
+
+  * Fixed bugs:
+  * #1093340 KeyError 
+  * #1093343 Tasks are not uploading to Google Tasks 
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Mon, 24 Dec 2012 10:31:21 +0100
+
+google-tasks-indicator (0.0.5.0.precise.2-1ubuntu1) precise; urgency=low
+
+  * Minor bugs
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 09 Dec 2012 11:03:41 +0100
+>>>>>>> MERGE-SOURCE
+
+google-tasks-indicator (0.0.5.0.precise.1-1ubuntu1) precise; urgency=low
+
+  * Fixed some bugs with local work
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 09 Dec 2012 10:21:17 +0100
+
+google-tasks-indicator (0.0.4.2.precise.1-1ubuntu1) precise; urgency=low
+
+  * Updated translations
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 08 Dec 2012 09:23:27 +0100
+
+google-tasks-indicator (0.0.4.1-1ubuntu1) precise; urgency=low
+
+  * Using python 2.7
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 07 Dec 2012 19:26:05 +0100
+
+google-tasks-indicator (0.0.4.0-1ubuntu1) precise; urgency=low
+
+  * Local work
+  * Sync with Google
+  * Using requests
+  * Using OAuth2
+  * Fixed several bugs
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 07 Dec 2012 19:15:55 +0100
+
+google-tasks-indicator (0.0.3.2-1ubuntu1) precise; urgency=low
+
+  * Added italian translation
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Mon, 16 Apr 2012 11:47:27 +0200
+
+google-tasks-indicator (0.0.3.1-1ubuntu1) precise; urgency=low
+
+  * Fixed some bugs
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 01 Apr 2012 20:38:40 +0200
+
+google-tasks-indicator (0.0.3.0-1ubuntu1) precise; urgency=low
+
+  * New translations: Chinese, Turkish
+  * Due date is optional
+  * redimensioned new task dialog
+  * google-task-indicator manage now several tasklists
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 31 Mar 2012 19:19:07 +0200
+
+google-tasks-indicator (0.0.2.3-1ubuntu1) precise; urgency=low
+
+  * Bug #953835 Long tasks are truncated
+  * Bug #953881 The file "tasks-dat" is created in config dir
+  * Bug #955092 The tasks are marked as completed correctly
+  * New translations: Finnish, French, German, Russian, Spanish
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Wed, 14 Mar 2012 21:37:39 +0100
+
+google-tasks-indicator (0.0.2.2-1ubuntu1) precise; urgency=low
+
+  * Fixed a bug with no items
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 11 Mar 2012 10:31:17 +0100
+
+google-tasks-indicator (0.0.2.0-1ubuntu1) precise; urgency=low
+
+  * Showing all tasks
+  * Editing tasks
+  * Ordering tasks
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 11 Mar 2012 09:24:43 +0100
+
+google-tasks-indicator (0.0.1.2-1ubuntu1) precise; urgency=low
+
+  * Fixed missing dependency "python-flags"
+  * Fixed a bug with autostart
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 06 Mar 2012 22:10:26 +0100
+
+google-tasks-indicator (0.0.1.1-1ubuntu1) oneiric; urgency=low
+
+  * Complete task from menu
+  * Add task from menu
+  * Clear completed tasks
+  * Refresh items
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 04 Mar 2012 20:11:57 +0100
+
+google-tasks-indicator (0.0.1.0-1ubuntu1) precise; urgency=low
+
+  * First release
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 21 Feb 2012 09:24:46 +0100

@@ -1,0 +1,470 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+<<<<<<< TREE
+"POT-Creation-Date: 2013-01-19 07:20+0100\n"
+=======
+"POT-Creation-Date: 2013-01-19 07:06+0100\n"
+>>>>>>> MERGE-SOURCE
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:43
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:309
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:292
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/task_dialog.py:43
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:309
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:292
+>>>>>>> MERGE-SOURCE
+msgid "Add new task"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:45
+msgid "Edit task"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:62
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:68
+msgid "Task List"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:74
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/tasklist_dialog.py:58
+msgid "Title"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:78
+msgid "Notes"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:82
+msgid "Completed"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/task_dialog.py:86
+msgid "Date due"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/tasklist_dialog.py:40
+msgid "Add new tasklist"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/tasklist_dialog.py:42
+msgid "Edit tasklist"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:45
+msgid "Show Tasks"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:82
+msgid "Up"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:89
+msgid "Down"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:96
+msgid "Mark as completed"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:103
+msgid "Edit"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_tasks_dialog.py:110
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:314
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:297
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/show_tasks_dialog.py:110
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:314
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:297
+>>>>>>> MERGE-SOURCE
+msgid "Clear completed tasks"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_taskslists_dialog.py:46
+msgid "Show tasklists"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_taskslists_dialog.py:81
+msgid "Add"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/show_taskslists_dialog.py:88
+msgid "Remove"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:169
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:164
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:169
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:164
+>>>>>>> MERGE-SOURCE
+msgid ""
+"You have to authorize Google-Tasks-Indicator to manage your Google "
+"Calendar.\n"
+" Do you want to authorize?"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:310
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:294
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:310
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:294
+>>>>>>> MERGE-SOURCE
+msgid "Add new task list"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:311
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:311
+>>>>>>> MERGE-SOURCE
+msgid "Manage tasklists"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:313
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:296
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:313
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:296
+>>>>>>> MERGE-SOURCE
+msgid "Refresh"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:315
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:298
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:315
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:298
+>>>>>>> MERGE-SOURCE
+msgid "Show all tasks"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:316
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:299
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:316
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:299
+>>>>>>> MERGE-SOURCE
+msgid "Synchronize with Google"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:319
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:45
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:302
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:319
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/preferences_dialog.py:45
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:302
+>>>>>>> MERGE-SOURCE
+msgid "Preferences"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:321
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:304
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:321
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:304
+>>>>>>> MERGE-SOURCE
+msgid "Help"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:324
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:307
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:324
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:307
+>>>>>>> MERGE-SOURCE
+msgid "Exit"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:332
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:315
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:332
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:315
+>>>>>>> MERGE-SOURCE
+msgid "Web..."
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:333
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:316
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:333
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:316
+>>>>>>> MERGE-SOURCE
+msgid "Get help online..."
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:334
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:317
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:334
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:317
+>>>>>>> MERGE-SOURCE
+msgid "Translate this application..."
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:335
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:318
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:335
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:318
+>>>>>>> MERGE-SOURCE
+msgid "Report a bug..."
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:337
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:325
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:337
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:325
+>>>>>>> MERGE-SOURCE
+msgid "About"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/google-tasks-indicator.py:456
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:453
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:19
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:20
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:21
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:22
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:23
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:24
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:25
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:26
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:42
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:43
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:44
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:45
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:46
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:47
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:48
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/google-tasks-indicator.py:456
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:453
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:19
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:20
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:21
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:22
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:23
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:24
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:25
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:26
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:42
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:43
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:44
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:45
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:46
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:47
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:48
+>>>>>>> MERGE-SOURCE
+msgid "An indicator for Google Tasks"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:61
+msgid "Options"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:80
+msgid "Autostart"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:87
+msgid "Theme light"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:95
+msgid "Sync options"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:103
+msgid "Tasks local only"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:108
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:130
+msgid "Copy to external"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:110
+msgid "Delete local"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:112
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:124
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:132
+msgid "Do none"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:115
+msgid "Tasks external only"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:120
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:128
+msgid "Copy to local"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:122
+msgid "Delete external"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:135
+msgid "Tasks local and external"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:141
+msgid "Login"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:149
+msgid "Allow access to Google Tasks"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:195
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:280
+msgid "All"
+msgstr ""
+
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/preferences_dialog.py:272
+msgid ""
+"You have to authorize Google-Task-Indicator to use it, do you want to "
+"authorize?"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:320
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:320
+>>>>>>> MERGE-SOURCE
+msgid "Homepage"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:321
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:321
+>>>>>>> MERGE-SOURCE
+msgid "Follow us in Twitter"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:322
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:322
+>>>>>>> MERGE-SOURCE
+msgid "Follow us in Google+"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/src/googletasksindicator.py:323
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/src/googletasksindicator.py:323
+>>>>>>> MERGE-SOURCE
+msgid "Follow us in Facebook"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:11
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:12
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:13
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:14
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:15
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:16
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:17
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:18
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:35
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:36
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:37
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:38
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:39
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:40
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:41
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:11
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:12
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:13
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:14
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:15
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:16
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:17
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:18
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:35
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:36
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:37
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:38
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:39
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:40
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:41
+>>>>>>> MERGE-SOURCE
+msgid "Google-Taks-Indicator"
+msgstr ""
+
+<<<<<<< TREE
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:27
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:28
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:29
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:30
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:31
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:32
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:33
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:34
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:49
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:50
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:51
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:52
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:53
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:54
+#: /home/atareao/Dropbox/tp/quantal/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:55
+=======
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:27
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:28
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:29
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:30
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:31
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:32
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:33
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:34
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:49
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:50
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:51
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:52
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:53
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:54
+#: /home/atareao/Dropbox/tp/precise/google-tasks-indicator/Google-Tasks-Indicator.desktop.in:55
+>>>>>>> MERGE-SOURCE
+msgid "Google-Tasks-Indicator"
+msgstr ""
