@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="24"
+   height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="google-task-indicator-dark-starred.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="google-tasks-indicator-dark-normal.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-28.573645"
-     inkscape:cy="25.459775"
+     inkscape:zoom="4.421875"
+     inkscape:cx="24.784071"
+     inkscape:cy="12.314238"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,11 +55,11 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-269.7767,-445.04746)">
+     transform="translate(-269.7767,-485.04746)">
     <g
        id="g3025"
-       transform="matrix(0.112726,0,0,0.11428572,267.75862,422.49032)"
-       style="stroke:none;stroke-opacity:1;fill:#3c3c3c;fill-opacity:1">
+       transform="matrix(0.0450904,0,0,0.04571429,268.16947,475.2246)"
+       style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1">
       <path
          id="rect2985"
          d="m 80,302.375 0,350 350,0 0,-172.40625 -50,50 0,72.40625 -250,0 0,-250 250,0 0,58.78125 50,-50 0,-58.78125 -350,0 z"
@@ -68,7 +68,7 @@
       <path
          inkscape:connector-curvature="0"
          id="rect2989-5"
-         d="m 170,430.94085 106.06602,106.06603 35.35534,35.3553 35.35534,-35.3553 L 523.5534,360.23017 488.19806,324.87483 311.42136,501.65153 205.35534,395.58551 170,430.94085 z"
+         d="m 170,430.94085 106.06602,106.06603 35.35534,35.3553 35.35534,-35.3553 L 523.5534,360.23017 488.19806,324.87483 311.42136,501.65153 205.35534,395.58551 170,430.94085 Z"
          style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </g>
   </g>

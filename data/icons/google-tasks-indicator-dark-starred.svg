@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
+   width="24"
+   height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="google-task-indicator.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="google-tasks-indicator-dark-starred.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-28.573645"
-     inkscape:cy="25.459775"
+     inkscape:zoom="1.979899"
+     inkscape:cx="20.877665"
+     inkscape:cy="-15.607376"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,28 +55,32 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-269.7767,-445.04746)">
-    <rect
-       style="fill:#00e700;fill-opacity:0.13991771;stroke:none"
-       id="rect5276"
-       width="36"
-       height="36"
-       x="278.7767"
-       y="459.04745" />
+     transform="translate(-269.7767,-485.04746)">
     <g
-       id="g3025"
-       transform="matrix(0.112726,0,0,0.11428572,267.75862,422.49032)"
-       style="stroke:none;stroke-opacity:1;fill:#3c3c3c;fill-opacity:1">
-      <path
-         id="rect2985"
-         d="m 80,302.375 0,350 350,0 0,-172.40625 -50,50 0,72.40625 -250,0 0,-250 250,0 0,58.78125 50,-50 0,-58.78125 -350,0 z"
+       id="g4137"
+       transform="matrix(0.4,0,0,0.4,161.06602,306.22847)">
+      <rect
+         y="459.04745"
+         x="278.7767"
+         height="36"
+         width="36"
+         id="rect5276"
+         style="fill:#00e700;fill-opacity:0.13991771;stroke:none" />
+      <g
          style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect2989-5"
-         d="m 170,430.94085 106.06602,106.06603 35.35534,35.3553 35.35534,-35.3553 L 523.5534,360.23017 488.19806,324.87483 311.42136,501.65153 205.35534,395.58551 170,430.94085 z"
-         style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         transform="matrix(0.112726,0,0,0.11428572,267.75862,422.49032)"
+         id="g3025">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1"
+           d="m 80,302.375 0,350 350,0 0,-172.40625 -50,50 0,72.40625 -250,0 0,-250 250,0 0,58.78125 50,-50 0,-58.78125 -350,0 z"
+           id="rect2985" />
+        <path
+           style="fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-opacity:1"
+           d="m 170,430.94085 106.06602,106.06603 35.35534,35.3553 35.35534,-35.3553 L 523.5534,360.23017 488.19806,324.87483 311.42136,501.65153 205.35534,395.58551 170,430.94085 Z"
+           id="rect2989-5"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>
