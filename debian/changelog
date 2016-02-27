@@ -1,3 +1,9 @@
+google-tasks-indicator (0.6.1-extras15.10.0) wily; urgency=medium
+
+  * Resized icons
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 27 Feb 2016 07:49:25 +0100
+
 google-tasks-indicator (0.6.0-extras15.10.0) wily; urgency=medium
 
   * Added control over tasklists
