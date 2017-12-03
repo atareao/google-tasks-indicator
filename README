@@ -1,19 +1,11 @@
-Catch-Indicator
+Google-Tasks-Indicator
 ===============
 
-Catch-Indicator is an application to get your Catch notes to your Desktop
-
-
-Download
---------
-
-Download the [package][dlp] *or* checkout the source:
-
-    $ hg clone http://bitbucket.org/obensonne/gnome-encfs
+Google-Tasks-Indicator is an application to get your Google Tasks to your Desktop via Indicators
 
 Installation
 ------------
 
     $ sudo add-apt-repository ppa:atareao/atareao
     $ sudo apt-get update
-    $ sudo apt-get install catch-indicator
+    $ sudo apt-get install google-tasks-indicator
